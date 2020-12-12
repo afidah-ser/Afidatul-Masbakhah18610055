@@ -29,6 +29,7 @@ a {
   background-size: cover;
   color: black;
   text-align: center;
+  text-color: black;
 }
 
 .top-wrapper h1 {
@@ -156,9 +157,9 @@ header {
 
 .lesson-icon p {
  image-bottom: 2px solid #dee7ec;
-  font-size: 28px;
+  font-size: 25px;
   padding-bottom: 15px;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
   color: black;
   
 }
@@ -177,7 +178,7 @@ header {
   display: inline-block;
   margin-top: 15px;
   font-size: 15px;
-  color: #b3aeb5;
+  color: black;
 }
 
 .heading h3 {
