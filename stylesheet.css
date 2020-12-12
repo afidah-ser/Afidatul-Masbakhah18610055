@@ -108,7 +108,7 @@ header {
 .header-right a {
   line-height: 65px;
   padding: 0 25px;
-  color: white;
+  color: lightbrown;
   display: block;
   float: left;
   transition: all 0.5s;
@@ -119,9 +119,9 @@ header {
 }
 
 .menu-icon {
-  color: lightblue;
+  color: lightgray;
   float: right;
-  font-size: 25px;
+  font-size: 50px;
   padding: 21px 0;
   /* Change the display property to none */
   display: none;
@@ -158,7 +158,7 @@ header {
   position: absolute;
   top: 44%;
   width: 100%;
-  color: white;
+  color: black;
 }
 
 .contents-item {
@@ -208,7 +208,7 @@ footer img {
 
 footer p {
   color: #b3aeb5;
-  font-size: 12px;
+  font-size: 15px;
 }
 
 footer {
