@@ -153,14 +153,17 @@ header {
 
 .lesson-icon {
   position: relative;
+  font-size: 15px;
+  padding-bottom: 15px;
+  margin-bottom: 20px;
   color: black;
 }
 
 .lesson-icon p {
  image-bottom: 2px solid #dee7ec;
-  font-size: 25px;
+  font-size: 20px;
   padding-bottom: 15px;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   color: black;
   
 }
