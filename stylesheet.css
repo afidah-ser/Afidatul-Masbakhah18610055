@@ -155,12 +155,13 @@ header {
 }
 
 .lesson-icon p {
-  position: absolute;
-  top: 44%;
-  width: 100%;
+ image-bottom: 2px solid #dee7ec;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
   color: black;
+  
 }
-
 .contents-item {
   float: left;
   margin-right: 40px;
