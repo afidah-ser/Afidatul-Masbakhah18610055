@@ -161,6 +161,7 @@ header {
 
 .lesson-icon p {
  image-bottom: 2px solid #dee7ec;
+  position: center;
   font-size: 20px;
   padding-bottom: 10px;
   margin-bottom: 15px;
