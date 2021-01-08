@@ -6,6 +6,7 @@ body {
   margin: 0;
   background-color: lightblue;
   font-family: "Lucida Grande";
+  image-position: center;
 }
 
 a {
