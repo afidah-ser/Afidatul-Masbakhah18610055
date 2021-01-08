@@ -1,5 +1,5 @@
-var n = prompt("ادخل اسمك:");
-var c = confirm("Hello " + n + " اهلا و سهلا في معهدنا");
+var n = prompt("Tulis Namamu:");
+var c = confirm("Hello " + n + "Selamat Datang di Taman Edukasi Embung Park");
 if (c == true) {
     alert('Good Luck');
 } else {
