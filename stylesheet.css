@@ -120,7 +120,7 @@ header {
 }
 
 .menu-icon {
-  color: gray;
+  color: black;
   float: right;
   font-size: 50px;
   padding: 21px 0;
@@ -152,7 +152,7 @@ header {
 }
 
 .lesson-icon {
-  position: relative;
+  position: center;
   font-size: 15px;
   padding-bottom: 15px;
   margin-bottom: 20px;
@@ -170,11 +170,13 @@ header {
 .contents-item {
   float: left;
   margin-right: 40px;
+  image-align: center;
 }
 
 .contents-item p {
   font-size: 24px;
   margin-top: 30px;
+  image-align: center;
 }
 
 .text-contents {
